@@ -1,3 +1,32 @@
 body {
   background: #000000;
+  text-align: center;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a {
+  color: white;
+  border-bottom: 1px dotted gray;
+  text-decoration: none;
+}
+a:hover {
+  color: black;
+  background: yellow;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+ul.bad-things li {
+  padding: 0.2em 0.2em 0.5em 0.2em;
+  font-size: 1.2em;
+  letter-spacing: 0.1em;
+}
+video {
+  width: 100%;
+  max-width: 50em;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 2em;
 }
