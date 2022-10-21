@@ -35,6 +35,10 @@ ul.bad-things li:before {
 ul.bad-things li:after {
   content: "\00a0\00a0";
 }
+ul.bad-things li.disabled {
+  pointer-events: none;
+  opacity: 0.125;
+}
 video {
   width: 100%;
   max-width: 50em;
