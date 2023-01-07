@@ -74,6 +74,7 @@ video {
   max-width: 50em;
   display: block;
   margin: 4em auto 4em auto;
+  max-height: 90vh;
 }
 footer a {
   position: fixed;
