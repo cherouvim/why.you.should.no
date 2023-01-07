@@ -60,6 +60,15 @@ body.inner h1 {
     font-size: 2.55em;
   }
 }
+body.inner summary {
+  max-width: 46em;
+  margin: 0 auto;
+  text-align: justify;
+  letter-spacing: 0.14em;
+  font-size: 0.9em;
+  line-height: 1.4em;
+  color: #eee;
+}
 video {
   width: 98%;
   max-width: 50em;
