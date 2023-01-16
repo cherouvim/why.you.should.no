@@ -1,3 +1,3 @@
 # https://why.you.should.no/t
 
-Educational videos for all.
+Learn from the mistakes of others by watching real-life video examples of what not to do!
