@@ -2,7 +2,7 @@ body {
   background: #000000;
   text-align: center;
   color: white;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: "Jost", Verdana, Geneva, Tahoma, sans-serif;
 }
 a {
   color: white;
@@ -25,9 +25,9 @@ ul.bad-things {
   list-style-type: none;
 }
 ul.bad-things li {
-  padding: 0.5vh 0.5vw 0.9vh 0.5vw;
+  padding: 0.4vh 0.5vw 0.8vh 0.5vw;
   font-size: 5vw;
-  letter-spacing: 0.1em;
+  letter-spacing: 0.15em;
 }
 ul.bad-things li:before {
   content: "\2192\00a0";
@@ -43,7 +43,7 @@ ul.bad-things li.disabled {
 }
 /* INNER */
 body.inner h1 {
-  margin-top: 9vh;
+  margin-top: 8vh;
   font-size: 4vw;
   margin-bottom: 6vh;
 }
@@ -64,10 +64,10 @@ body.inner summary {
   max-width: 46em;
   margin: 0 auto;
   text-align: justify;
-  letter-spacing: 0.14em;
-  font-size: 0.9em;
-  line-height: 1.4em;
-  color: #eee;
+  letter-spacing: 0.11em;
+  font-size: 1em;
+  line-height: 1.35em;
+  color: #ddd;
 }
 video {
   width: 98%;
