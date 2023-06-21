@@ -82,3 +82,22 @@ footer a {
   bottom: 0.5em;
   color: gray;
 }
+
+/* SCROLL BAR */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 2px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: #212529;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #868e96;
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: #adb5bd;
+}
