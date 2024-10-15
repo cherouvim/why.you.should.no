@@ -76,11 +76,20 @@ video {
   margin: 4em auto 4em auto;
   max-height: 90vh;
 }
+footer {
+  margin-top: 2em;
+  opacity: 0.5;
+}
+footer code {
+  background: yellow;
+  color: black;
+  padding: 0.2em;
+  letter-spacing: 0.1em;
+}
 footer a {
   position: fixed;
   right: 0.5em;
   bottom: 0.5em;
-  color: gray;
 }
 
 /* SCROLL BAR */
